@@ -5,7 +5,7 @@ Git
 ---
 Install git if it isn't installed on your system.
 
-1. Debian (based repositories)
+1. Debian (based distributions)
 	```
 	sudo apt-get install git
 	```
