@@ -3,7 +3,7 @@ Getting started
 
 Git
 ---
-Install git if it isn't installed on your system.
+Install git, if it isn't installed on your system yet.
 
 1. Debian (based distributions)
 	```
@@ -20,7 +20,7 @@ Install git if it isn't installed on your system.
 	brew install git
 	```
 
-If you've never worked with git before, it's recommended to read the [crash course](http://git-scm.com/course/svn.html)	
+If you've never worked with git before, it's recommended to read the [crash course](http://git-scm.com/course/svn.html).
 
 Source Code
 -----------
@@ -29,7 +29,7 @@ Source Code
 	```
 	git clone git://gitorious.org/owncloud/owncloud.git
 	```
-2. Follow the [installation instructions](http://owncloud.org/support/install/)
+2. Follow the [installation instructions](http://owncloud.org/support/install/).
 
 Need an idea for an app?
 ------------------------
